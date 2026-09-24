@@ -10,9 +10,7 @@ public class main {
         gioco Gioco = new gioco();
         int valore_carta_trovata, valore_totale;
         int continua, asso, sconfitte = 0, vittorie = 0, partita = 1;
-
         System.out.println("\n Benvenuto in black jack!");
-
         while (partita == 1) {
 
             valore_totale = Gioco.trova_carta();

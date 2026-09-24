@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b105008-cc50-40ae-a544-29f0955f6170" name="Changes" comment="Prima versione">
-      <changelist_data name="andrea" email="andrea.agosteo11@gmail.com" automatic="false" />
+    <list default="true" id="5b105008-cc50-40ae-a544-29f0955f6170" name="Changes" comment="seconda">
       <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="andrea &lt;andrea.agosteo11@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -56,6 +60,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Prima versione" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prima versione" />
+    <MESSAGE value="seconda" />
+    <option name="LAST_COMMIT_MESSAGE" value="seconda" />
   </component>
 </project>
